@@ -5,6 +5,8 @@
 * Currently studying on the last year of Systems Analyst.
 * In the last time, i was working on a project about of Web Development. because of that i am very interested on this technologies 💻.
 
+### [Resume/CV](https://drive.google.com/file/d/1pHGblWmjTSyMZoQ6-CxOwXgnDTzAOTMG/view?usp=sharing)
+
 ## Knowledges 📚
 (Remember, I am a student and my knowledge is little, but I will continue learning).
 
