@@ -8,8 +8,17 @@
 ## Knowledges 📚
 (Remember, I am a student and my knowledge is little, but I will continue learning).
 - Web:
-  * Frontend: HTML basic, on Styles use a framework (Bootstrap and any basics CSS properties), And i stundying the DOM of JS, to create interactive WebPages.
-  * Backend: i have a little piece of knowledge on APIs, to realize request on SQL databases, starting to work with MVC models.
+  * Frontend: 
+     ** HTML.
+     ** Styles (CSS, SCSS, Bootstrap)
+     ** JavaScript
+     ** TypeScript
+  * Backend:
+     ** PHP
+     ** Laravel
+  * DataBases
+    ** MySql
+
 - Others:
   * Java, and Pascal. (i got up to Archives management and O.O.P).
 
