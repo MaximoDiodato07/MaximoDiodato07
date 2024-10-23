@@ -34,7 +34,7 @@
   
 ## Contact 👇
 - Contact Number 📱: +54 2284 239336
-- E-Mail ✉️: diodatomaximo@gmail.com]
+- E-Mail ✉️: [diodatomaximo@gmail.com]
 ### Or via:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximo-diodato)
 
